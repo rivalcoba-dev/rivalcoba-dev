@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rivalcoba-dev, I work as a theacher at TecNM-ITGAM 
 - 👀 I’m interested in Javascript, Node, Typescript, OpenCV, Deep Learning.
 - 🌱 I’m currently learning Vue 3, Typescrpit
-- 💞️ I’m looking to collaborate on Javascript iniciatives, Vue evangelization on México
+- 💞️ I’m looking to collaborate on Javascript iniciatives, Vue evangelization in México
 - 📫 How to reach me jorge.rr@gamadero.tecnm.mx
 
 <!---
